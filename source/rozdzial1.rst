@@ -1,5 +1,6 @@
 Rolnictwo w Polsce – analiza stanu obecnego i perspektyw rozwoju
-.. image:: traktor.png
+
+.. image:: traktor.jpg
    :align: center
    :width: 500px
    :alt: Traktor
