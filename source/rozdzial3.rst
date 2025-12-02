@@ -1,3 +1,7 @@
+====================
+Rozdział 3: Tabela
+====================
+
 .. list-table:: Zestawienie wybranych sektorów produkcji rolnej w Polsce
    :widths: 20 25 25 30
    :header-rows: 1

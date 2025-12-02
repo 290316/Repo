@@ -1,3 +1,7 @@
+====================
+Rozdział 1: Traktor
+====================
+
 Rolnictwo w Polsce – analiza stanu obecnego i perspektyw rozwoju
 
 .. image:: traktor.jpg
