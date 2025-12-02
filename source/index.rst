@@ -19,23 +19,3 @@ documentation for details.
    rozdzial2
    rozdzial3
 
-
--------------------------
-Rozdział 1 – Wprowadzenie
--------------------------
-
-Ilustracja
-
-
-------------------------
-Rozdział 2 – Architektura
-------------------------
-
-Tabela
-
-
-----------------------------
-Rozdział 3 – Instrukcja użycia
-----------------------------
-
-Lista
