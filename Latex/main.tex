@@ -1,38 +1,40 @@
-\documentclass[12pt,a4paper,twoside]{article}
+\documentclass[12pt]{report}
 
 
 \usepackage{polski}
 \usepackage[utf8x]{inputenc}
 \usepackage[OT4]{fontenc}
-
+\usepackage{multicol}
 \usepackage{graphicx}
 \usepackage{float} 
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+\usepackage{csquotes}
+\usepackage{biblatex}
+\addbibresource{bibliografia.bib}
 
-\title{Długi artykuł}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\leftmark}      % tytu� aktualnego rozdzia�u
+\fancyhead[R]{Jan Kowalski}   % autor
+\fancyfoot[C]{\thepage}
+
+\title{Najlepszy report ever}
 \author{290316}
 \date{2025.11.18}
 
 
 
-\usepackage[a4paper,
-            inner=3cm,
-            outer=1cm,
-            top=1cm,
-            bottom=1.6cm]{geometry}
-
-\usepackage{multicol}
-
-\linespread{1}
-
 \begin{document}
 
 \maketitle
-
+\tableofcontents
+\clearpage
 \begin{abstract}
-    Ten artykuł jest najgorszym artykułem do robienia czegokolwiek. gg
+    W tym reporcie jest moje zadanie na laby.
 \end{abstract}
 
-\tableofcontents
+
 
 
 \begin{multicols}{2}
